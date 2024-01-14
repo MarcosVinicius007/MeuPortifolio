@@ -1,6 +1,6 @@
 <title>Meu Portifólio</title>
 
-<h1> Meu Portifólio</h1> 
+<h1>Sobre o Projeto</h1> 
 <h2>Meu Portifólio é o meu Primeiro Currículo escrito com :</h2>
 <p>Linguagem de Marcação de texto"HTML5,<br>
 linguagem de Folhas de Estilos"CSS",<br>
