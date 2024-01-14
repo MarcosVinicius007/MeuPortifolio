@@ -6,7 +6,7 @@
 linguagem de Folhas de Estilos"CSS",<br>
 linguagém De Programação "JavaScript".<br>
 Nele estão minhas principais competências soft skills e hard skills .<br>
-<p>No mesmo foi adicionado botões especificos que leva um possivel recrutador para as minhas principais redes sociais:<br>
+No mesmo foi adicionado botões especificos que leva um possivel recrutador para as minhas principais redes sociais:<br>
 Linkedim,<br>
 Github,<br>
 Hnstagram.<br>
