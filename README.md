@@ -9,7 +9,7 @@ Nele estão minhas principais competências soft skills e hard skills .<br>
 No mesmo foi adicionado botões especificos que leva um possivel recrutador para as minhas principais redes sociais:<br>
 Linkedim,<br>
 Github,<br>
-instagram.<br>
+Instagram.<br>
 Foi adicionado também um boão que quando acionado leva o usuário para um projeto "Art Glass".<br>
 Este projeto é um sit de prestação de serviço de uma empresa que trabalha com intalação e manutenção de acessórios de vidro em geral.</p>
 
