@@ -8,9 +8,9 @@
 <strong>JavaScript:</strong> Linguagem de programação.<br>
 <p>Nele, destaco minhas principais competências, tanto soft skills quanto hard skills.<br>
 Além disso, adicionei botões específicos que direcionam um possível recrutador para minhas principais redes sociais:</p>
-<strong>Linkedim</strong> 
-<strong>Github</strong> 
-<strong>Instagram.</strong> 
+<strong>Linkedim</strong><br> 
+<strong>Github</strong> <br>
+<strong>Instagram.</strong> <br>
 <p>Também incluí um botão que leva o usuário a um projeto chamado “Art Glass”.<br>
 Esse projeto é um site de prestação de serviços de uma empresa especializada em instalação e manutenção de acessórios de vidro.</p>
 
