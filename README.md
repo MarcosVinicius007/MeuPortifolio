@@ -1,5 +1,5 @@
 <title>Meu Portfólio</title>
-<h1>Sobre o Projeto</h1> <hr>
+<h1>Sobre o Projeto</h1>
 <p>Meu portfólio é o meu primeiro currículo, criado com as seguintes tecnologias:</p>
 <hr>
 <strong>HTML5:</strong>Linguagem de marcação de texto.<br>
@@ -15,4 +15,5 @@ Além disso, adicionei botões específicos que direcionam um possível recrutad
 Esse projeto é um site de prestação de serviços de uma empresa especializada em instalação e manutenção de acessórios de vidro.</p>
 
 <p>Se precisar de mais informações ou tiver alguma pergunta, estou à disposição! 😊</p>
+ <hr>
 
