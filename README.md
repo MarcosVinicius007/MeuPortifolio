@@ -3,9 +3,9 @@
 <p>Meu portfólio é o meu primeiro currículo, criado com as seguintes tecnologias:</p>
 
 
-<strong>HTML5:</strong><p>Linguagem de marcação de texto.<br>
+<strong>HTML5:</strong>Linguagem de marcação de texto.<br>
 <strong>CSS:</strong> Linguagem de folhas de estilo.<br>
-<strong>JavaScript:</strong> Linguagem de programação.</p>
+<strong>JavaScript:</strong> Linguagem de programação.<br
 <p>Nele, destaco minhas principais competências, tanto soft skills quanto hard skills.<br>
 Além disso, adicionei botões específicos que direcionam um possível recrutador para minhas principais redes sociais:</p>
 <strong>Linkedim</strong> 
