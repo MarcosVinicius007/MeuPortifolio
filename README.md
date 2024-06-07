@@ -6,6 +6,7 @@
 <strong>HTML5:</strong>Linguagem de marcação de texto.<br>
 <strong>CSS:</strong> Linguagem de folhas de estilo.<br>
 <strong>JavaScript:</strong> Linguagem de programação.<br>
+<hr>
 <p>Nele, destaco minhas principais competências, tanto soft skills quanto hard skills.<br>
 Além disso, adicionei botões específicos que direcionam um possível recrutador para minhas principais redes sociais:</p>
 <strong>Linkedim</strong><br> 
