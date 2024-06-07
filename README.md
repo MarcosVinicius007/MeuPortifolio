@@ -1,8 +1,7 @@
 <title>Meu Portfólio</title>
 <h1>Sobre o Projeto</h1> 
 <p>Meu portfólio é o meu primeiro currículo, criado com as seguintes tecnologias:</p>
-
-
+<hr>
 <strong>HTML5:</strong>Linguagem de marcação de texto.<br>
 <strong>CSS:</strong> Linguagem de folhas de estilo.<br>
 <strong>JavaScript:</strong> Linguagem de programação.<br>
