@@ -1,4 +1,4 @@
-<h1>SMeu Portfólio</h1>
+<h1>Meu Portfólio</h1>
 <h2>Sobre o Projeto</h2>
 <p>Meu portfólio é o meu primeiro currículo, criado com as seguintes tecnologias:</p>
 <hr>
