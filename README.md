@@ -1,14 +1,18 @@
-<title>Meu Portifólio</title>
+<title>Meu Portfólio</title>
 <h1>Sobre o Projeto</h1> 
-<h2>Meu Portifólio é o meu Primeiro Currículo escrito com :</h2>
-<p>Linguagem de Marcação de texto"HTML5,<br>
-linguagem de Folhas de Estilos"CSS",<br>
-linguagém De Programação "JavaScript".<br>
-Nele estão minhas principais competências soft skills e hard skills .<br>
-No mesmo foi adicionado botões especificos que leva um possivel recrutador para as minhas principais redes sociais:<br>
-Linkedim,<br>
-Github,<br>
-Instagram.<br>
-Foi adicionado também um boão que quando acionado leva o usuário para um projeto "Art Glass".<br>
-Este projeto é um sit de prestação de serviço de uma empresa que trabalha com intalação e manutenção de acessórios de vidro em geral.</p>
+<p>Meu portfólio é o meu primeiro currículo, criado com as seguintes tecnologias:</p>
+
+
+<strong>HTML5:</strong><p>Linguagem de marcação de texto.<br>
+<strong>CSS:</strong> Linguagem de folhas de estilo.<br>
+<strong>JavaScript:</strong> Linguagem de programação.</p>
+<p>Nele, destaco minhas principais competências, tanto soft skills quanto hard skills.<br>
+Além disso, adicionei botões específicos que direcionam um possível recrutador para minhas principais redes sociais:</p>
+<strong>Linkedim</strong> 
+<strong>Github</strong> 
+<strong>Instagram.</strong> 
+<p>Também incluí um botão que leva o usuário a um projeto chamado “Art Glass”.<br>
+Esse projeto é um site de prestação de serviços de uma empresa especializada em instalação e manutenção de acessórios de vidro.</p>
+
+<p>Se precisar de mais informações ou tiver alguma pergunta, estou à disposição! 😊</p>
 
