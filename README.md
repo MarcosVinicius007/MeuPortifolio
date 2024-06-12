@@ -15,5 +15,5 @@ Além disso, adicionei botões específicos que direcionam um possível recrutad
 Esse projeto é um site de prestação de serviços de uma empresa especializada em instalação e manutenção de acessórios de vidro.</p>
 
 <p>Se precisar de mais informações ou tiver alguma pergunta, estou à disposição! 😊</p>
- <hr>
+
 
